@@ -1,0 +1,55 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    background-image: url(projects2.jpg);
+    height: 400px;
+    background-position: top;
+    text-align: center;
+    color: aliceblue;   
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header h2{
+    padding-top: 250px;
+}
+.p{
+    font-size: small;
+    
+}
+div{
+    margin: 100px;
+}
+.buttonfirst{
+    background-color: purple;
+}
+#p{
+    width: 500px;
+    height: 2px;
+}
+.first{
+    font-size: 10px;
+    width: 200px;
+    height: 1px;
+}
+.second{
+    font-size: 10px;
+    width: 200px;
+    height: 1px;
+}
+#works{
+    text-align: right;
+    font-size: 20px;
+    color: brown;
+    padding-right: 20px;
+}
+.third{
+    font-size: 10px;
+    width: 200px;
+    height: 1px;
+}
+#last{
+    text-align: center;
+    font-style: oblique;
+    font-size: small;
+}
